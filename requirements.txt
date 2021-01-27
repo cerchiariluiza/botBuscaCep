@@ -1,0 +1,8 @@
+pip
+pyTelegramBotApi
+setuptools
+six
+telepot
+urllib3
+telebot
+bot
